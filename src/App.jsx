@@ -17,6 +17,10 @@ const App = () => {
 			id: 3,
 			texto:
 				'Inteligencia militar son dos términos absolutamente contradictorios',
+		},
+		{
+			id: 4,
+			texto: 'La singularidad en el campo de la inteligencia se refiere al momento en el que la inteligencia sea capaz de mejorarse a si misma'
 		}
 	];
 	return (
