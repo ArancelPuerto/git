@@ -17,7 +17,7 @@ const App = () => {
 			id: 3,
 			texto:
 				'Inteligencia militar son dos términos absolutamente contradictorios',
-		},
+		}
 	];
 	return (
 		<div className='saludo'>
