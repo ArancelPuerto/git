@@ -2,7 +2,8 @@ import React from 'react'
 
 const Listado = () => {
   return (
-	<div>Listado</div>
+	<div><p class='añadir cambios a git'>Listado</p></div>
+
   )
 }
 

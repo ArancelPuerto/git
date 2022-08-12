@@ -1,7 +1,9 @@
-import React from 'react';
+import React from 'react'
 
 const ElementoLista = () => {
-	return <div>ElementoLista</div>;
-};
+  return (
+	<div>ElementoLista</div>
+  )
+}
 
-export default ElementoListas;
+export default ElementoLista
